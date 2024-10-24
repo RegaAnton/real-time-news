@@ -1,8 +1,6 @@
-<p align="center"></p>
-
 <h1 align="center">
-   <a href="https://github.com/RegaAnton/TimeBreak.git" target="_blank" align="center">
-      TimeBreak Website
+   <a href="https://github.com/RegaAnton/real-time-news.git" target="_blank" align="center">
+      Real Time News Website
    </a>
 </h1>
 
@@ -23,7 +21,7 @@ Installing and running Sneat is super easy, please Follow below steps and you wi
 -   Clone Project
 
 ```bash
-git clone https://github.com/RegaAnton/TimeBreak.git
+git clone https://github.com/RegaAnton/real-time-news.git
 ```
 
 -   Use the following command to install the composer
@@ -42,23 +40,6 @@ cp .env.example .env
 
 ```bash
 php artisan key:generate
-```
-
--   Open the env file to change the database according to the one you are using
-
-```bash
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=TimeBreak
-DB_USERNAME=root
-DB_PASSWORD=
-```
-
--   Create Database
-
-```bash
-php artisan migrate:fresh
 ```
 
 -   Start Project
