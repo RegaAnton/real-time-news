@@ -10,7 +10,7 @@
 
 ## Introduction 🚀
 
-Website TimeBreak yang masih dalam tahap pengembangan
+Website Portal Berita dari berbagai sumber
 
 ## Installation ⚒️
 
